@@ -1,0 +1,28 @@
+_repo: Memories-of-Canada-and-Scotland-Speeches-and-Verses_7212
+creator:
+  author:
+    agent_name: Argyll, John Douglas Sutherland Campbell, Duke of
+    aliases:
+    - Argyll, John George Edward Henry Douglas Sutherland Campbell, 9th Duke of
+    - Campbell, John Douglas Sutherland
+    birthdate: 1845
+    deathdate: 1914
+    gutenberg_agent_id: '2375'
+    url: http://www.gutenberg.org/2009/agents/2375
+    wikipedia: http://en.wikipedia.org/wiki/John_Campbell%2C_9th_Duke_of_Argyll
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Speeches, addresses, etc.'
+- !lcsh 'Scotland -- Poetry'
+- !lcsh 'Canada -- Poetry'
+title: Memories of Canada and Scotland — Speeches and Verses
+url: http://www.gutenberg.org/ebooks/7212
